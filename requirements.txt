@@ -1,0 +1,7 @@
+langchain-groq
+langchain
+Pillow
+chromadb
+diffusers
+sentence_transformers
+accelerate
